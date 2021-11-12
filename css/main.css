@@ -469,7 +469,7 @@ body.lock {
 }
 
 .section-header {
-  background: url("/ConstantineAB/github/blob/main/img/Layer_23.jpg?raw=true") no-repeat 50% 50%;
+  background: url("Layer_23.jpg") no-repeat 50% 50%;
   background-size: cover;
   max-width: 1400px;
   max-height: 672px;
